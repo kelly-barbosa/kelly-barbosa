@@ -1,14 +1,22 @@
-## Olá, eu sou a Kelly 👋
+## 👋 Olá! Eu sou a Kelly  
 
-- 🔭 Trabalhando como Cientista de Dados
-- 🌱 Aprendendo
-- 😄 Pronomes: ela/dela
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- 🔭 Atualmente atuo como **Cientista de Dados**, com foco em análise e insights estratégicos.  
+- 🌱 Estou sempre aprendendo e aprimorando minhas habilidades.    
+- 😄 Pronomes: **ela/dela.**
 
 ### 🤖 Linguagens e Tecnologias
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="SQL" height="40" width="50"
+src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+<img align="center" alt="Databricks" height="40" width="40"
+src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
+<img align="center" alt="Power BI" height="40" width="40"
+src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+</div>
+
+##
 
   <div> 
   <a href="https://instagram.com/kellydsbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
