@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente atuo como **Cientista de Dados**, com foco em análise e insights estratégicos.  
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades.    
-- 😄 Pronomes: **ela/dela.**
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
